@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "title": "test",
+      "body": "test",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "31231231",
+      "body": "32131",
+      "userId": 4,
+      "id": 2
+    },
+    {
+      "title": "eqwewq",
+      "body": "eqeqe",
+      "userId": 1,
+      "id": 3
+    }
+  ],
+  "profile": [
+    {
+      "fullname": "yasin murat",
+      "username": "yasinymous",
+      "email": "ysnakyz55@gmail.com",
+      "id": 1
+    },
+    {
+      "fullname": "eqwewq",
+      "username": "ewqeq",
+      "email": "ewqewq",
+      "id": 2
+    },
+    {
+      "fullname": "eqwewq",
+      "username": "ewqeq",
+      "email": "ewqewq",
+      "id": 3
+    },
+    {
+      "fullname": "test",
+      "username": "test",
+      "email": "test",
+      "id": 4
+    }
+  ]
+}
